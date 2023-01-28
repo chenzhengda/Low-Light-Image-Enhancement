@@ -1,0 +1,16 @@
+--2023-02-07 06:26:17--  https://m106.syncusercontent1.com/mfs-60:39fbd5fdb99548d71f3d8f8bff7e7c9e=============================/p/training.zip?allowdd=0
+Resolving m106.syncusercontent1.com (m106.syncusercontent1.com)... 66.207.197.42
+Connecting to m106.syncusercontent1.com (m106.syncusercontent1.com)|66.207.197.42|:443... connected.
+HTTP request sent, awaiting response... 302 
+Location: https://ln.sync.com/ [following]
+--2023-02-07 06:26:18--  https://ln.sync.com/
+Resolving ln.sync.com (ln.sync.com)... 54.85.166.98, 184.72.81.93
+Connecting to ln.sync.com (ln.sync.com)|54.85.166.98|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2085 (2.0K) [text/html]
+Saving to: ‘training.zip?allowdd=0’
+
+training.zip?allowdd=0             0%[                                                          ]       0  --.-KB/s               training.zip?allowdd=0           100%[=========================================================>]   2.04K  --.-KB/s    in 0s      
+
+2023-02-07 06:26:18 (25.7 MB/s) - ‘training.zip?allowdd=0’ saved [2085/2085]
+
